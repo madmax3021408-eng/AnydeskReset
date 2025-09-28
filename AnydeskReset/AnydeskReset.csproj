@@ -84,7 +84,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="NewFolder1\" />
+    <Folder Include="samoe\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\anydesk-7-0-14.exe">
